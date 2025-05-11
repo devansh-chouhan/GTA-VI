@@ -1,5 +1,5 @@
 # GTA-VI
-![](https://img.icons8.com/?size=100&id=B90XVitkkUPU&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=79082&format=png&color=000000)
 
 This project is a visually dynamic landing page inspired by the Grand Theft Auto (GTA) series. Built with React, GSAP for animation, and Tailwind CSS, this website features an engaging SVG animation on load and smooth interactive animations throughout the page.
 
